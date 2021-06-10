@@ -4,6 +4,7 @@
       {
         "title":"BANNER",
         "apiType":"hw",
+        "colCell": "bannerColCell",
         "showMore":"0",
         "type":"3",
         "count":"10",
@@ -145,6 +146,7 @@
       {
         "title":"BANNER",
         "apiType":"hw",
+        "colCell": "bannerColCell",
         "showMore":"0",
         "type":"3",
         "count":"10",
