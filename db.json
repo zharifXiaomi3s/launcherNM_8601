@@ -189,15 +189,6 @@
         "count":"0"
       },
       {
-        "title":"LIGA MALAYSIA",
-        "apiType":"nm",
-        "action": "0",
-        "colCell": "homevodcolcell",
-        "showMore":"0",
-        "type":"4",
-        "count":"0"
-      },
-      {
         "title":"SNEK",
         "apiType":"hw",
         "action": "0",
