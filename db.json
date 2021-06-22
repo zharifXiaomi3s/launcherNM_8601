@@ -181,8 +181,17 @@
       },
       {
         "title":"TOKYO 2020 OLYMPIC GAMES lol",
-        "apiType":"nm",
+        "apiType":"nm1",
         "action": "1",
+        "colCell": "homevodcolcell",
+        "showMore":"0",
+        "type":"4",
+        "count":"0"
+      },
+      {
+        "title":"LIGA MALAYSIA",
+        "apiType": "nm2",
+        "action": "0",
         "colCell": "homevodcolcell",
         "showMore":"0",
         "type":"4",
