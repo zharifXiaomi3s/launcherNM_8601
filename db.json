@@ -1,5 +1,6 @@
 {
-  "request": [
+  "power": {
+    "request": [
   {
     "title": "BANNER",
     "apiType": "hw",
@@ -180,4 +181,5 @@
 "count": "50"
 }
 ]
+  }
 }
