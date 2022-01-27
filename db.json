@@ -199,6 +199,25 @@
         "showMore": "1",
         "type": "9",
         "count": "50"
+      },
+      {
+        "title": "BEIJING 2022",
+        "apiType": "hw",
+        "action": "0",
+        "colCell": "homechannelcolcell",
+        "showMore": "0",
+        "type": "4",
+        "count": "10",
+        "extensionFields": 
+        [
+          {
+            "key": "subjectID",
+            "values":
+            [
+              "G0002"
+            ]
+          }
+        ]
       }
     ]
   }
