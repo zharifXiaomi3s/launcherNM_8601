@@ -3,6 +3,25 @@
     "request": 
     [
       {
+        "title": "BANNER",
+        "apiType": "hw",
+        "action": "0",
+        "colCell": "bannercolcell",
+        "showMore": "0",
+        "type": "3",
+        "count": "10",
+        "extensionFields": 
+        [
+          {
+            "key": "subjectID",
+            "values": 
+            [
+              "G1001"
+            ]
+          }
+        ]
+      },
+      {
         "title": "LIVE TV",
         "apiType": "hw",
         "action": "0",
