@@ -19,6 +19,60 @@
         ]
       },
       {
+        "title": "LIGA MALAYSIA 2022",
+        "apiType": "nm1",
+        "action": "0",
+        "colCell": "homevodcolcell",
+        "showMore": "0",
+        "type": "4",
+        "count": "0"
+      },
+      {
+        "title": "BEIJING 2022",
+        "apiType": "nm2",
+        "action": "0",
+        "colCell": "homevodcolcell",
+        "showMore": "0",
+        "type": "4",
+        "count": "0"
+      },
+      {
+        "title": "ASEAN GAMES 2022",
+        "apiType": "nm3",
+        "action": "0",
+        "colCell": "homevodcolcell",
+        "showMore": "0",
+        "type": "4",
+        "count": "0"
+      },
+      {
+        "title": "TOP GEAR PRO",
+        "apiType": "nm4",
+        "action": "0",
+        "colCell": "homevodcolcell",
+        "showMore": "0",
+        "type": "4",
+        "count": "0"
+      },
+      {
+        "title": "NINTENDO ZELDA COMPETITION",
+        "apiType": "nm5",
+        "action": "0",
+        "colCell": "homevodcolcell",
+        "showMore": "0",
+        "type": "4",
+        "count": "0"
+      },
+      {
+        "title": "MALAYSIA BOLEH",
+        "apiType": "nm6",
+        "action": "0",
+        "colCell": "homevodcolcell",
+        "showMore": "0",
+        "type": "4",
+        "count": "0"
+      },
+      {
         "title": "SNEK",
         "apiType": "hw",
         "action": "0",
