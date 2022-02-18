@@ -2,15 +2,6 @@
   "request": {
     "request": [
       {
-        "title": "WINTER BEIJING 2022",
-        "apiType": "nm1",
-        "action": "0",
-        "colCell": "homevodcolcell",
-        "showMore": "0",
-        "type": "4",
-        "count": "0"
-      },
-      {
         "title": "BANNER",
         "apiType": "hw",
         "action": "0",
@@ -26,6 +17,15 @@
             ]
           }
         ]
+      },
+      {
+        "title": "WINTER BEIJING 2022",
+        "apiType": "nm1",
+        "action": "0",
+        "colCell": "homevodcolcell",
+        "showMore": "0",
+        "type": "4",
+        "count": "0"
       },
       {
         "title": "OLYMPIC TOKYO 2020",
@@ -192,15 +192,6 @@
         ]
       },
       {
-        "title": "LIVE TV",
-        "apiType": "hw",
-        "action": "0",
-        "colCell": "homechannelcolcell",
-        "showMore": "1",
-        "type": "9",
-        "count": "50"
-      },
-      {
         "title": "NOW BAOGU MOVIES",
         "apiType": "hw",
         "action": "0",
@@ -216,6 +207,15 @@
             ]
           }
         ]
+      },
+      {
+        "title": "LIVE TV",
+        "apiType": "hw",
+        "action": "0",
+        "colCell": "homechannelcolcell",
+        "showMore": "1",
+        "type": "9",
+        "count": "50"
       }
     ]
   }
